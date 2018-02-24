@@ -18,9 +18,9 @@ namespace ChallengeForXmenBattleCount
             // Wolverine fewest battles
             // Pheonix most battles
 
-            //Provided Arrays (added 'Shirly Mason' and 'Sybil' for a generalized scenario)
-            string[] names = new string[] { "Professor X", "Iceman", "Angel", "Beast", "Pheonix", "Cyclops", "Wolverine", "Nightcrawler", "Storm", "Colossus", "Shirly Mason", "Sybil" };
-            int[] numbers = new int[] { 7, 9, 12, 15, 17, 13, 2, 6, 8, 13, 17, 2};
+            //Provided Arrays (added 'Shirley Mason' and 'Sybil' for a generalized scenario)
+            string[] names = new string[] { "Professor X", "Iceman", "Angel", "Beast", "Pheonix", "Cyclops", "Wolverine", "Nightcrawler", "Storm", "Colossus", "Shirley Mason", "Sybil Dorsett", "Peggy Baldwin" };
+            int[] numbers = new int[] { 7, 9, 12, 15, 17, 13, 2, 6, 8, 13, 17, 2, 6};
 
             // Define Max and Min
             int numbersMax = numbers.Max();
