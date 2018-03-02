@@ -1,0 +1,9 @@
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll.config
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.dll
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\bin\MegaChallengeCasino.pdb
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csprojResolveAssemblyReference.cache
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.csproj.CoreCompileInputs.cache
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.dll
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeCasino\MegaChallengeCasino\obj\Debug\MegaChallengeCasino.pdb
