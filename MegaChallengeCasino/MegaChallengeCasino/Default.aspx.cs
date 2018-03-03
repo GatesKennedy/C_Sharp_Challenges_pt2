@@ -94,6 +94,7 @@ namespace MegaChallengeCasino
         {
             if (!Page.IsPostBack)
             {
+                RestartButton.Visible = false;
                 PopulateIcons();
                 double playerBalance = 100.00;
                 ViewState.Add("Balance", playerBalance);
@@ -145,10 +146,10 @@ namespace MegaChallengeCasino
         private void ExecuteTurn()
         {
             if (!GateForBetInput()) return;
-            if (!GateBalanceRemains()) return;
             PopulateIcons();
             FindMultipliers();
             CalculateBetResults(out double betEarnings);
+            if (!GateBalanceRemains()) return;
             DisplayResultMessage(betEarnings);
         }
 
@@ -162,17 +163,6 @@ namespace MegaChallengeCasino
             }
             ErrorTextLabel.Text = "";
             return true;
-        }
-
-// Gate Balance Remains
-        private bool GateBalanceRemains()
-        {
-            if ((double)ViewState["Balance"] > 0) return true;
-            BetResultLabel.Text = "";
-            ErrorTextLabel.Text = "<br />Whomp Whomp...<br /> You've lost all your money...";
-            MoneyBalanceLabel.Text = "$0.00";
-            return false;
-
         }
 
 // POPULATE ICONS SECTION
@@ -276,6 +266,18 @@ namespace MegaChallengeCasino
             return Earnings;
         }
 
+// GATE BALANCE REMAINS
+        private bool GateBalanceRemains()
+        {
+            if ((double)ViewState["Balance"] > 0) { RestartButton.Visible = false; return true; }
+            BetResultLabel.Text = "";
+            LeverButton.Visible = false;
+            RestartButton.Visible = true;
+            ErrorTextLabel.Text = "<br />Whomp Whomp...<br /> You've lost all your money...";
+            MoneyBalanceLabel.Text = "$0.00";
+            return false;
+        }
+
 // DISPLAY RESULT MESSAGE
         private void DisplayResultMessage(double EarningsFromLastBet)
         {
@@ -289,6 +291,17 @@ namespace MegaChallengeCasino
             }
             else BetResultLabel.Text = betResultMessageArray[betResultMultiplier]
                     + String.Format("{0:C}! <br />Let's keep playing 'til you're broke!! Yay!", EarningsFromLastBet);
+        }
+
+        protected void RestartButton_Click(object sender, EventArgs e)
+        {
+            LeverButton.Visible = true;
+            RestartButton.Visible = false;
+            ErrorTextLabel.Text = "";
+            string AremenianEternity = "\u058E";
+            BetResultLabel.Text = "Rad! We got a masochist!<br /><br />"+AremenianEternity+"<br /><br />Cheers Bruddah!<br /><br /> 'We Appreciate Your Addiction!'";
+            ViewState["Balance"] = 100.00;
+            MoneyBalanceLabel.Text = "$1,000,000,000,blah,000,000.00 <br /><br />(...dont worry, money is just a numerical representation of faith)";
         }
     }
 }

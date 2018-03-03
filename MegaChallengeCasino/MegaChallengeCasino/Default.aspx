@@ -42,6 +42,8 @@
             <br />
             <asp:Button ID="LeverButton" runat="server" Text="Pull The Lever!" OnClick="LeverButton_Click" />
             <br />
+            <asp:Button ID="RestartButton" runat="server" OnClick="RestartButton_Click" Text="Lose All Your Money Again?!" />
+            <br />
             <asp:Label ID="ErrorTextLabel" runat="server" CssClass="auto-style1" ForeColor="#CC0000"></asp:Label>
             <br class="auto-style1" />
             <asp:Label ID="BetResultLabel" runat="server" CssClass="auto-style1"></asp:Label>
