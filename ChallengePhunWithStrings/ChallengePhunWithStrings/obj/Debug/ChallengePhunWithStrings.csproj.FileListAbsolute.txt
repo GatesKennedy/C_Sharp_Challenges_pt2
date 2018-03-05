@@ -1,0 +1,7 @@
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll.config
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.dll
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\bin\ChallengePhunWithStrings.pdb
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.dll
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.pdb
+C:\Users\gates\Documents\TechA\CH8--CS_ASP\DevU_ChallengeFiles\CSASP_035Challenge_Code\CS-ASP_035-Challenge_Code\ChallengePhunWithStrings\ChallengePhunWithStrings\obj\Debug\ChallengePhunWithStrings.csprojResolveAssemblyReference.cache
