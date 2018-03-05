@@ -43,48 +43,58 @@ namespace ChallengeHeroMonsterClassesPart1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            Character Hero = new Character();
+            Hero.Name = "T'Challa";
+            Hero.Health = 220;
+            Hero.DamageMaximum = 299;
+            Hero.AttackBonus = false;
 
+            Character Monster = new Character();
+            Monster.Name = "Cthulhu";
+            Monster.Health = 300;
+            Monster.DamageMaximum = 219;
+            Monster.AttackBonus = false;
+
+            HeroLabel.Text = String.Format("Hero: {0} ({1}hp)", Hero.Name, Hero.Health);
+            MonsterLabel.Text = String.Format("Monster: {0} ({1}hp)", Monster.Name, Monster.Health);
+
+            int damage;
+
+            damage = Hero.Attack();
+            Monster.Defend(damage);
+
+            damage = Monster.Attack();
+            Hero.Defend(damage);
+
+            DisplayResults(Hero);
+            DisplayResults(Monster);
         }
 
-        class Character
+        private void DisplayResults(Character character)
         {
-            /*
-            2. Create a Character class
-            It should have properties:
-            Name
-            Health
-            DamageMaximum
-            AttackBonus
+            ResultLabel.Text += String.Format("{0} Health: {1}hp<br />", character.Name, character.Health);
+        }
 
-            3. The Character class should have two methods:
-
-            Attack() return an int - randomly determine the amount of damage this Character object inflicted.
-            ((use the Random class))
-
-            Defend(int damage) - deducts the damage from this Character's health
-            */
-
-            public string Name { get; set; }
-            public int Health { get; set; }
-            public int DamageMaximum { get; set; }
-            public int AttackBonus { get; set; }
-
-            public int Attack(out int DamageInflicted)
-            {
-                DamageInflicted = 0;
+    }
 
 
+    class Character
+    {
+        public string Name { get; set; }
+        public int Health { get; set; }
+        public int DamageMaximum { get; set; }
+        public bool AttackBonus { get; set; }
 
-                return DamageInflicted;
-            }
+        public int Attack()
+        {
+            Random rando = new Random();
+            int DamageInflicted = rando.Next(25, this.DamageMaximum);
+            return DamageInflicted;
+        }
 
-            public int Defend(out int damageTaken)
-            {
-                damageTaken = 0;
-
-
-                return damageTaken;
-            }
+        public void Defend(int damageTaken)
+        {
+            this.Health -= damageTaken;
         }
     }
 }
