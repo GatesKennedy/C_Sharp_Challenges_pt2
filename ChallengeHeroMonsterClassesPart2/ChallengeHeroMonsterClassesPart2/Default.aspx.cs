@@ -64,12 +64,12 @@ namespace ChallengeHeroMonsterClassesPart2
             while (hero.Health > 0 && monster.Health > 0)
             {
                 damage = monster.Attack(rando1);
-                if (monster.AttackBonus) damage += 5;
                 hero.Defend(damage);
+                // or hero.Defend(monster.Attack(rando1));
 
                 damage = hero.Attack(rando1);
-                if (hero.AttackBonus) damage += 5;
                 monster.Defend(damage);
+                // or hero.Defend(monster.Attack(rando1));
 
                 resultLabel.Text += string.Format(".:Round {0}:.<br/>", count);
                 PrintStats(hero);
