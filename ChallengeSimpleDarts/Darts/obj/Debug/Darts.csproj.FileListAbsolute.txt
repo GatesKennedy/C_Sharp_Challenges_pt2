@@ -1,0 +1,6 @@
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
+C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
