@@ -4,3 +4,9 @@ C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\Darts\obj\Debug\Darts.pdb

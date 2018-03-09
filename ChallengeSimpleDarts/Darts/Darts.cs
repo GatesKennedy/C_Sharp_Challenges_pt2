@@ -6,31 +6,24 @@ using System.Threading.Tasks;
 
 namespace Darts
 {
-    public static class Dart
+    public class Dart
     {
-        /*
         // Properties
-        public int RandomRegionNumber { get; set; }
-        public int RandomRingNumber { get; set; }
+        private Random _Rando { get; set; }
 
         // Class Constructor
-        public Dart(int _randoRegion, int _randoRing)
-        {
-            int RandomRegionNumber = _randoRegion;
-            int RandomRingNumber = _randoRing;
-        }
-        */
+        public Dart(Random randomNumber) { _Rando = randomNumber; }
         
         // Method Throw()
-        public static int[] Throw(int _randoRegion, int _randoRing)
+        public int[] Throw()
         {
             int[] regionAndMultiplier = new int[2] { 0, 0 };
-            regionAndMultiplier[0] = _randoRegion;
-            if (_randoRing > 1) regionAndMultiplier[1] = 1;
-            else if (_randoRing == 0) regionAndMultiplier[1] = 2;
-            else if (_randoRing == 1) regionAndMultiplier[1] = 3;
+            regionAndMultiplier[0] = _Rando.Next(0, 21);
+            int randoMultiplier = _Rando.Next(0, 21);
+            if (randoMultiplier > 1) regionAndMultiplier[1] = 1;
+            else if (randoMultiplier == 0) regionAndMultiplier[1] = 2;
+            else if (randoMultiplier == 1) regionAndMultiplier[1] = 3;
             return regionAndMultiplier;
         }
-        
     }
 }

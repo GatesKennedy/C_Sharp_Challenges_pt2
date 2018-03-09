@@ -9,3 +9,14 @@ C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\Chall
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.dll
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.pdb
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\ChallengeSimpleDarts.dll.config
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\ChallengeSimpleDarts.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\ChallengeSimpleDarts.pdb
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Darts.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Darts.pdb
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.csprojResolveAssemblyReference.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.csproj.CoreCompileInputs.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\ChallengeSimpleDarts\ChallengeSimpleDarts\obj\Debug\ChallengeSimpleDarts.pdb
