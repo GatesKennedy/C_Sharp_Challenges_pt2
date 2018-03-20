@@ -7,3 +7,12 @@ C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeWar\MegaChall
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
 C:\Users\gates\OneDrive\Documents\Conor\Visual_Studio\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll.config
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\bin\MegaChallengeWar.pdb
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csprojResolveAssemblyReference.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.csproj.CoreCompileInputs.cache
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.dll
+C:\Users\gates\Documents\TechA\C_Sharp_Challenges_Pt2\MegaChallengeWar\MegaChallengeWar\obj\Debug\MegaChallengeWar.pdb
